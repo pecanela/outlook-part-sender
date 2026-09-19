@@ -1,0 +1,52 @@
+﻿OUTLOOK PART SENDER v3.1.0 PORTABLE — VALIDAÇÃO
+==============================================================
+
+OK   Portable entry point exists
+OK   Connects to classic Outlook
+OK   Reuses open Outlook when possible
+OK   Dynamic parts
+OK   Multiple attachments per part
+OK   Drafts supported
+OK   Exactly one automatic Send call
+OK   Recipients resolved
+OK   Selected Outlook account
+OK   Outlook signature via WordEditor
+OK   Batch snapshot
+OK   UI locked while processing
+OK   Returns to Draft after batch
+OK   No fixed six-part rule
+OK   No registry installation in launcher
+OK   No PowerShell dependency in launcher
+OK   No administrator elevation
+OK   Uses Windows .NET compiler
+OK   Compiles as WinExe
+OK   Correct portable Main selected
+OK   Compiles only when cache version differs
+OK   C# braces balanced
+OK   C# parentheses balanced
+OK   C# brackets balanced
+
+OBJETIVO DESTA VERSÃO
+---------------------
+Uso em PC corporativo com o mínimo de alteração possível:
+- sem instalação;
+- sem registro do Outlook;
+- sem VSTO;
+- sem VBA;
+- sem PowerShell no launcher;
+- sem privilégio de administrador.
+
+PRIMEIRA EXECUÇÃO
+-----------------
+O arquivo ABRIR Outlook Part Sender.cmd usa o compilador do .NET Framework
+já existente no Windows para criar o executável no perfil do usuário.
+As execuções seguintes abrem diretamente o executável em cache.
+
+LIMITAÇÃO EXTERNA
+----------------
+Uma política corporativa pode bloquear CMD, csc.exe, executáveis em LocalAppData
+ou automação COM do Outlook. O programa não tenta contornar essas políticas.
+
+VALIDAÇÃO QUE AINDA DEPENDE DO PC REAL
+--------------------------------------
+Compilação efetiva no Windows e conexão com o Outlook corporativo do usuário.
