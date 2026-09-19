@@ -1,0 +1,11 @@
+tag,status,asset,title
+v3.1.0,Latest,Outlook_Part_Sender_v3.1.0_PORTABLE_CORPORATE.zip,Portable Corporate
+v3.0.0,Legacy,Outlook_Part_Sender_v3.0.0_ONE_CLICK_READY.zip,COM Add-in
+v2.0.2,Archived pre-release,Outlook_Part_Sender_VSTO_v2.0.2_FINAL_VALIDATED.zip,VSTO final
+v2.0.1,Superseded pre-release,Outlook_Part_Sender_VSTO_v2.0.1_FINAL_VALIDATED.zip,VSTO safety pass
+v2.0.0,Superseded pre-release,Outlook_Part_Sender_VSTO_v2.0.0_SOURCE_AND_PUBLISH.zip,VSTO first migration
+v1.4.0,Legacy,Outlook_Part_Sender_v1.4.0_FINAL_VALIDATED.zip,PowerShell final
+v1.3.0,Legacy,Outlook_Part_Sender_v1.3.0_DYNAMIC_PARTS.zip,Dynamic Parts
+v1.2.0,Legacy,Outlook_Part_Sender_v1.2.0_VALIDATED.zip,Robustness update
+v1.0.1,Superseded,Outlook_Part_Sender_v1.0.1.zip,Compatibility hotfix
+v1.0.0,Prototype,Outlook_Part_Sender_v1.0.zip,Initial prototype

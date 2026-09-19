@@ -1,0 +1,25 @@
+# Build/cache
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.log
+
+# Local Outlook Part Sender data
+*.opsparts.json
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Release archives belong in GitHub Releases, not the repository
+*.zip
